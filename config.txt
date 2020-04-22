@@ -1,2 +1,6 @@
 foo3=li
 foo4=la
+app=crm
+app=web
+app=db
+
